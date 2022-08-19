@@ -1,0 +1,4 @@
+aiohttp
+homeassistant  # To be removed with extra code from custom_component
+xmodem
+zigpy
